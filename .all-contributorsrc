@@ -575,7 +575,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/65855673?v=4",
       "profile": "https://github.com/Tenessy",
       "contributions": [
-        "infra"
+        "infra",
+        "code",
+        "test"
       ]
     },
     {
@@ -593,6 +595,16 @@
       "name": "Gesiel Rosa",
       "avatar_url": "https://avatars.githubusercontent.com/u/40439982?v=4",
       "profile": "https://www.gta-sa.com.br/",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
+    },
+    {
+      "login": "besimgurbuz",
+      "name": "Besim Gürbüz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33575384?v=4",
+      "profile": "http://besimgurbuz.dev/",
       "contributions": [
         "doc",
         "translation"
